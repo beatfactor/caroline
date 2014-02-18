@@ -1,0 +1,33 @@
+{
+  "name": "caroline",
+  "version": "0.0.1",
+  "description": "colourful console output for node.js",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "make test reporter=spec"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/beatfactor/caroline.git"
+  },
+  "keywords": [
+    "console",
+    "colour",
+    "color",
+    "terminal",
+    "xterm",
+    "ansi"
+  ],
+  "devDependencies": {
+    "mocha": "1.12.0"
+  },
+  "author": "Andrei Rusu",
+  "licenses": {
+    "type": "MIT",
+    "url": "https://raw.github.com/beatfactor/caroline/master/LICENSE"
+  },
+  "bugs": {
+    "url": "https://github.com/beatfactor/caroline/issues"
+  },
+  "homepage": "https://github.com/beatfactor/caroline"
+}
