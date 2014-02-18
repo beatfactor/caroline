@@ -57,7 +57,7 @@ __caroline.background__
 
 __caroline.print(text, [options])__
 
-```
+```js
 var logger = require('caroline');
 logger.print('Italic text', {
   italic : true
