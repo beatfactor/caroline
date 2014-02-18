@@ -1,6 +1,6 @@
 {
   "name": "caroline",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "colourful console output for node.js",
   "main": "lib/index.js",
   "scripts": {
