@@ -127,6 +127,10 @@ describe('Caroline', function() {
         output = output.concat(args);
       }
 
+      caroline.print('test');
+      assert.equal(output.join(''), 'test\n');
+      output.length = 0;
+
       caroline.print('test', {
         color : 'white'
       });
