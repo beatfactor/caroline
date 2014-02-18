@@ -1,5 +1,6 @@
 caroline
 ========
+[![Build Status](https://travis-ci.org/beatfactor/caroline.png?branch=master)](https://travis-ci.org/beatfactor/caroline)
 
 A small terminal color library and logger for Node.js based on [ANSI escape codes](http://en.wikipedia.org/wiki/ANSI_escape_code#Colors).
 
